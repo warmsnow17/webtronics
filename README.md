@@ -44,4 +44,4 @@
      ```
     `pytest tests/`
      ```
-10. Создайте файл .env поместите в него переменную CLEARBIT_API_KEY='API_KEY' со своим секретным ключом от сервиса https://clearbit.com/
+10. Создайте файл .env поместите в него переменную CLEARBIT_API_KEY='API_KEY' со своим секретным API ключом сервиса https://clearbit.com/
